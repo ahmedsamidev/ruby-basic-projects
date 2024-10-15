@@ -6,3 +6,4 @@ Projects on Basic concepts of Ruby Language as a part of the Odin Project Fullst
 </p>
 
 ## [✔] Project: Caesar Cipher
+## [✔] Project: Sub Strings
